@@ -1,4 +1,4 @@
-# TEMPLATE VISUAL TESTING
+# Visual Testing Selenium Template
 
 El proyecto consiste en un framework de automatización de pruebas basado en Selenium WebDriver que sirve como punto de partida en cualquier proyecto de automatización de visual testing.
 
